@@ -1,3 +1,5 @@
+### 支持MobileNetV2-YOLOV3-Lite&Nano MobileNetV2-YOLOv3-Fastest(不支持V2) yoloface-500k(不支持V2) yoloface-100k训练
+
 <a href="https://apps.apple.com/app/id1452689527" target="_blank">
 <img src="https://user-images.githubusercontent.com/26833433/85940594-2d3f7d80-b8d2-11ea-809a-87b3bf6d968b.jpg" width="1000"></a>
 &nbsp
